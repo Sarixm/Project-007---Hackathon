@@ -1,0 +1,68 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+.venv/
+*.pyo
+*.pyd
+*.pyd
+*.whl
+
+# Flask
+instance/
+*.sqlite3
+
+# Flutter
+build/
+*.lock
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+*.iml
+.idea/
+.vscode/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace/
+macos/Flutter/ephemeral/
+web/.dart_tool/
+web/.packages
+web/build/
+
+# PyTorch
+*.pt
+*.pth
+
+# PostgreSQL
+*.pgsql
+*.pgpass
+*.pg_dump
+
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.vscode/
