@@ -44,9 +44,6 @@ web/.dart_tool/
 web/.packages
 web/build/
 
-# PyTorch
-*.pt
-*.pth
 
 # PostgreSQL
 *.pgsql
